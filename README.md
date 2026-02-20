@@ -1,5 +1,5 @@
 # MinhaAPI
-API Agendamentos com .NET 8 e MySQL
+API em .NET 8 e MySQL
 
 Resumo do projeto
 
